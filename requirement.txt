@@ -1,0 +1,7 @@
+flask==3.0.3
+flask_cors==4.0.1
+requests==2.32.2
+openai==1.25.1
+spark_ai_python==0.3.31
+llamaapi==0.1.36
+zhipuai==2.1.0.20240521
