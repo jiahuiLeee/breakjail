@@ -6,25 +6,24 @@ import json
 from llamaapi import LlamaAPI
 from zhipuai import ZhipuAI
 
-# gpt_key = "sk-OXjzOIjK8vpZgpneWFVkAIg5CHVAUUbaJBFTrHPJETiiAvAQ"
-# gpt_key = "sk-fC5uw6U7Km0yIdIjCgeuZFIYQeWdzwY1877vSFCAVW0xfWXz"
-gpt_key = "sk-OXjzOIjK8vpZgpneWFVkAIg5CHVAUUbaJBFTrHPJETiiAvAQ"
-gpt2_key = "SheugeI9qRquUWNNR63h7hz9Uz6ekG2j"
-# sk-IkyMvUBTTltHa40zxmdolJxZzrMV5vpYhIes0Lt9s9TacsPM
-llama_key = "LL-HVHBH57ewaOJRaEXBwUkNrpDpp2PO1HzpDV2K7XKCZqMCQbTYzNNHKnrcJ1gl0fZ"
 
-baichuan_key = "sk-0a98492026ba0c2c50e2b06415f978e2"
+gpt_key = ""
+gpt2_key = ""
 
-zhipu_key = "7e658af90a28f32a946f1dd9eff061a9.bvnyezwKyxJ77VIQ"
+llama_key = ""
+
+baichuan_key = ""
+
+zhipu_key = ""
 
 #星火认知大模型调用秘钥信息，请前往讯飞开放平台控制台（https://console.xfyun.cn/services/bm35）查看
-SPARKAI_APP_ID = 'f84624ca'
-SPARKAI_API_SECRET = 'OWQwNTY2MTVhZTI3NGZhMDZhZmQyYjY2'
-SPARKAI_API_KEY = '53f46273ec832b624ecc58cd40d2750f'
+SPARKAI_APP_ID = ''
+SPARKAI_API_SECRET = ''
+SPARKAI_API_KEY = ''
 
-BAIDU_APPID = '76243299'
-BAIDU_API_KEY = 'K89VisNv3C2DF9hEzAKrG1uH'
-BAIDU_SECRET_KEY = '3lfawTP42uNcJERtNN0wqHhnzaX7M7Qw'
+BAIDU_APPID = ''
+BAIDU_API_KEY = ''
+BAIDU_SECRET_KEY = ''
 
 
 # 非流式响应
