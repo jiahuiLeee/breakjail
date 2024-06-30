@@ -104,7 +104,7 @@ export default {
     },
     submitQuestion() {
       const prompt = this.question;
-      const apiKey = 'sk-OXjzOIjK8vpZgpneWFVkAIg5CHVAUUbaJBFTrHPJETiiAvAQ';
+      const apiKey = 'sk-.............................';
       // 设置loading状态为true
       this.loading = true;
       console.log(prompt, this.radio)
