@@ -1,0 +1,25 @@
+{
+  "name": "breakjail",
+  "version": "0.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "vite --host 0.0.0.0",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@element-plus/icons-vue": "^2.3.1",
+    "axios": "^1.7.2",
+    "element-plus": "^2.7.4",
+    "highlight.js": "^11.9.0",
+    "markdown-it": "^14.1.0",
+    "vue": "^3.4.21",
+    "vue-router": "^4.3.2"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^5.0.4",
+    "sass": "^1.77.4",
+    "vite": "^5.2.8"
+  }
+}
